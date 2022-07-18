@@ -42,6 +42,7 @@ static int	print_format(va_list args, const char c)
 {
 	int	len;
 
+	len = 0;
 	if (c == 'c')
 		len = ft_putchar(va_arg(args, int));
 	else if (c == 's')
