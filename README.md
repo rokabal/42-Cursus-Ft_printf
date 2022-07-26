@@ -13,3 +13,6 @@ The goal of this project is pretty straightforward. You will recode printf(). Yo
 ## Testers
 * [Tripouille/printfTester](https://github.com/Tripouille/printfTester)
 * [paulo-santana/ft_printf_tester](https://github.com/paulo-santana/ft_printf_tester)
+
+## License
+This work is published under the terms of **[42 Unlicense](https://github.com/gcamerli/42unlicense)**.
